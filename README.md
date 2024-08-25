@@ -16,8 +16,7 @@ Dashboard ini merupakan salah satu rangkaian dalam proses magang virtual saya di
 Janet, Manajer Retensi di PhoneNow, berfokus pada pemahaman dan peningkatan retensi pelanggan. Sebelum mengembangkan dasbor, dia memberikan masukan utama untuk memastikan analisis yang komprehensif. Masukan ini mencakup data pelanggan yang telah keluar dalam sebulan terakhir, rincian layanan yang mereka langgani (seperti telepon, beberapa saluran, internet, keamanan online, pencadangan online, perlindungan perangkat, dukungan teknis, serta streaming TV dan film), dan informasi akun pelanggan (termasuk durasi sebagai pelanggan, rincian kontrak, metode pembayaran, status penagihan tanpa kertas, tagihan bulanan dan total, serta jumlah tiket yang dibuka dalam kategori administratif dan teknis). Selain itu, informasi demografis seperti jenis kelamin, rentang usia, dan keberadaan mitra dan tanggungan juga disediakan untuk mendapatkan wawasan yang lebih dalam tentang perilaku pelanggan dan pola retensi.
 
 ## Dataset
-Dataset yang digunakan untuk tugas ini disajikan oleh Pwc dan sumber dataset churn customer: [dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2F4sLyCPgmsy8DA6Dh3%2F01%2520Call-Center-Dataset.xlsx&wdOrigin=BROWSELINK
-](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2F4sLyCPgmsy8DA6Dh3%2F02%2520Churn-Dataset.xlsx&wdOrigin=BROWSELINK) 
+Dataset yang digunakan untuk tugas ini disajikan oleh Pwc dan sumber dataset churn customer: [dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.theforage.com%2Fvinternships%2Fcompanyassets%2F4sLyCPgmsy8DA6Dh3%2F02%2520Churn-Dataset.xlsx&wdOrigin=BROWSELINK)
 
 ## Objective
 - Cara menentukan indikator kinerja utama (KPI) yang terkait dengan retensi pelanggan.
